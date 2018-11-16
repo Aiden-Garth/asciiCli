@@ -1,0 +1,23 @@
+{
+    "name": "ascii-art",
+    "version": "1.0.0",
+    "description": "A generator for ascii art",
+    "main": "cli.js",
+    "bin": {
+        "ascii-art-cli": "cli.js"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git@github.com:Aiden-Garth/asciiCli.git"
+    },
+    "homepage": "https://github.com/Aiden-Garth/asciiCli#readme",
+    "scripts": {
+        "test": "node test.js"
+    },
+    "maintainers": [{
+        "email": "coder.garth.aiden@gmail.com",
+        "name": "Aiden Garth",
+        "url": "https://github.com/Aiden-Garth/"
+    }],
+    "license": "Apache-2.0"
+}
